@@ -1,0 +1,1 @@
+# delna-farsi-exporter-privacy
